@@ -1,0 +1,4 @@
+# Created at 2020-02-27T10:46:31.046
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Git_Repository_Local\Udemy\microservices\mssc-brewery-client\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
